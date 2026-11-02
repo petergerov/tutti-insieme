@@ -1,0 +1,5 @@
+# Tutti Insieme website. Everything may be indexed.
+User-agent: *
+Allow: /
+
+Sitemap: https://petergerov.github.io/tutti-insieme/sitemap.xml
