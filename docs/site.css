@@ -76,6 +76,8 @@ nav {
 }
 .nav-link:hover { color: var(--text); }
 .nav-link:hover::after { transform: scaleX(1); }
+.nav-link[aria-current="page"] { color: var(--text); }
+.nav-link[aria-current="page"]::after { transform: scaleX(1); }
 .nav-right { display: flex; align-items: center; gap: 18px; }
 .lang {
   font-size: 0.78rem; font-weight: 600; letter-spacing: 0.08em;
