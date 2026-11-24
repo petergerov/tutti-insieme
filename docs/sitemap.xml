@@ -4,7 +4,7 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://petergerov.github.io/tutti-insieme/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://petergerov.github.io/tutti-insieme/" />
     <xhtml:link rel="alternate" hreflang="de" href="https://petergerov.github.io/tutti-insieme/de.html" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://petergerov.github.io/tutti-insieme/" />
@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://petergerov.github.io/tutti-insieme/de.html</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-24</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://petergerov.github.io/tutti-insieme/" />
     <xhtml:link rel="alternate" hreflang="de" href="https://petergerov.github.io/tutti-insieme/de.html" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://petergerov.github.io/tutti-insieme/" />
@@ -72,7 +72,7 @@
   </url>
   <url>
     <loc>https://petergerov.github.io/tutti-insieme/support.html</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
   <url>
     <loc>https://petergerov.github.io/tutti-insieme/sound-quality.html</loc>
@@ -89,7 +89,21 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://petergerov.github.io/tutti-insieme/sound-quality.html" />
   </url>
   <url>
+    <loc>https://petergerov.github.io/tutti-insieme/listen-via-link.html</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://petergerov.github.io/tutti-insieme/listen-via-link.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://petergerov.github.io/tutti-insieme/mithoeren-per-link.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://petergerov.github.io/tutti-insieme/listen-via-link.html" />
+  </url>
+  <url>
+    <loc>https://petergerov.github.io/tutti-insieme/mithoeren-per-link.html</loc>
+    <lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://petergerov.github.io/tutti-insieme/listen-via-link.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://petergerov.github.io/tutti-insieme/mithoeren-per-link.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://petergerov.github.io/tutti-insieme/listen-via-link.html" />
+  </url>
+  <url>
     <loc>https://petergerov.github.io/tutti-insieme/privacy.html</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-24</lastmod>
   </url>
 </urlset>

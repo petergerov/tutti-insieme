@@ -416,6 +416,9 @@ footer p { font-size: 0.75rem; color: var(--secondary); }
 .page h2 { font-size: 1.05rem; font-weight: 600; margin: 28px 0 8px; }
 .page p { font-size: 0.95rem; color: var(--secondary); margin-bottom: 14px; line-height: 1.6; }
 .page ul { margin: 0 0 14px 18px; color: var(--secondary); font-size: 0.95rem; line-height: 1.6; }
+.page ol { margin: 0 0 14px 20px; color: var(--secondary); font-size: 0.95rem; line-height: 1.6; }
+.page li + li { margin-top: 6px; }
+.page code { font-size: 0.85em; background: var(--bg2); padding: 1px 5px; border-radius: 5px; }
 .page section + section { margin-top: 56px; padding-top: 40px; border-top: 1px solid var(--border); }
 .page .table-wrap { overflow-x: auto; margin: 4px 0 16px; border: 1px solid var(--border); border-radius: var(--radius); }
 .page table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
@@ -427,12 +430,18 @@ footer p { font-size: 0.75rem; color: var(--secondary); }
 .page .num { text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
 .page .note { font-size: 0.8rem; color: var(--muted); }
 
-/* Seven links need room: closer together first, then only the links to other pages. */
-@media (max-width: 1280px) {
+/* Eight links need room: closer together first, then only the links to other pages. */
+@media (max-width: 1400px) {
   .nav-links { gap: 22px; }
 }
-@media (max-width: 1200px) {
+@media (max-width: 1375px) {
   .nav-link[href*="#"] { display: none; }
+}
+@media (max-width: 960px) {
+  .nav-links { gap: 16px; }
+}
+@media (max-width: 890px) {
+  .nav-links { display: none; }
 }
 @media (max-width: 760px) {
   nav { padding: 0 20px; }
